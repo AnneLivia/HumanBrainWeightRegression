@@ -37,9 +37,9 @@ Predict the masses of the brains using the data, and later compare it with the a
 
 # Trained Models 
   - **Linear Regression**: 
-    - *R2 (only Head Size(cm^3) considered)* = 0.729704751953933
-    - *R2 (All three attributes)* = 0.7443706812752315
+    - *R2 (only Head Size(cm^3) considered)* = 0.73
+    - *R2 (All three attributes)* = 0.74
   - **Multi-layer Perceptron**:
-    - *R2 (All three attributes)* = 0.737439103171976
+    - *R2 (All three attributes)* = 0.74
   - **Decision Tree**:
-    - *R2 (All three attributes)* = 0.6888171008654129
+    - *R2 (All three attributes)* = 0.69
