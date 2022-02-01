@@ -5,7 +5,7 @@ by <a href="https://www.kaggle.com/anubhabswain">Anubhab Swain</a>.</h3>
 
 <hr/>
 
-<p align="center"><img src="data/giphy.gif" width="40%"/></p>
+<p align="center"><img src="data/giphy.gif"/></p>
 <h6 align="center">Image obtained from <a href="https://giphy.com/butler/">Matthew Butler.</a></h6>
   
 ### Models implemented by <a href="https://github.com/AnneLivia">Anne Livia</a>.
@@ -36,6 +36,10 @@ Predict the masses of the brains using the data, and later compare it with the a
   - Seaborn
 
 # Trained Models 
-  - Linear Regression
-  - Multi-layer Perceptron
-  - Decision Tree
+  - **Linear Regression**: 
+    - *R2 (only Head Size(cm^3) considered)* = 0.729704751953933
+    - *R2 (All three attributes)* = 0.7443706812752315
+  - **Multi-layer Perceptron**:
+    - *R2 (All three attributes)* = 0.737439103171976
+  - **Decision Tree**:
+    - *R2 (All three attributes)* = 0.6888171008654129
